@@ -21,7 +21,7 @@ This project analyzes global COVID-19 trends, focusing on cases, deaths, and vac
 1. Clone the repository:  
    ```bash
    git clone <your-repository-url>
-   cd Final Project
+   cd Python Assignment Final Project
 # Python-Assignment-Final-Project
 
 📊 Insights & Reflections
